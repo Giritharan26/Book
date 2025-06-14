@@ -1,1 +1,1 @@
-# Book
+# coding-project-template
